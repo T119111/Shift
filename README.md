@@ -6,3 +6,7 @@ php,cssとsqlで構成されたシフト管理アプリケーションのプロ�
 私は企画とクライアントサイドのプログラムを主に担当しました。
 
 開発環境としてはEclipse、xampp、MySQLを用いております。
+
+
+https://user-images.githubusercontent.com/86280486/158609572-46d67bf5-b37f-4eae-882b-7e2f16e4cf93.mp4
+
